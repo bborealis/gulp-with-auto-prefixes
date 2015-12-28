@@ -51,3 +51,4 @@ gulp.task('watch', function() {
 
 ```
 * Make sure to link your html page to the build/syles.css file
+* //TO RUN in the cmd line: gulp watch
