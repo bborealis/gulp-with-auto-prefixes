@@ -1,4 +1,4 @@
-# _Gulp.js Autoprefixer _
+# _Gulp.js Autoprefixer_
 ##### _12/22/2015_
 
 
@@ -22,7 +22,7 @@ _How to set up a site using gulp.js and autoprefixer._
 
 * Install autoprefixer (verify install by checking the json file)
 
-  cmd line: npm install --save-dev --gulp-autoprefixer
+  cmd line: npm install --save-dev gulp-autoprefixer
 
 * Create gulp file in project directory
 
